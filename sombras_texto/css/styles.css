@@ -1,0 +1,261 @@
+.e1 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 100px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 2px 7px 5px rgba(238, 47, 47, 0.7),
+    0px -4px 10px rgba(138, 71, 71, 0.3);
+}
+
+.e2 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 90px;
+  color: #121212;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 1px #747474, -1px 3px 1px #767676, -2px 5px 1px #787878,
+    -3px 7px 1px #7a7a7a, -4px 9px 1px #7f7f7f, -5px 11px 1px #838383,
+    -6px 13px 1px #878787, -7px 15px 1px #8a8a8a, -8px 17px 1px #8e8e8e,
+    -9px 19px 1px #949494, -10px 21px 1px #989898, -11px 23px 1px #9f9f9f,
+    -12px 25px 1px #a2a2a2, -13px 27px 1px #a7a7a7, -14px 29px 1px #adadad,
+    -15px 31px 1px #b3b3b3, -16px 33px 1px #b6b6b6, -17px 35px 1px #bcbcbc,
+    -18px 37px 1px #c2c2c2, -19px 39px 1px #c8c8c8, -20px 41px 1px #cbcbcb,
+    -21px 43px 1px #d2d2d2, -22px 45px 1px #d5d5d5, -23px 47px 1px #e2e2e2,
+    -24px 49px 1px #e6e6e6, -25px 51px 1px #eaeaea, -26px 53px 1px #efefef;
+}
+
+.e3 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: #dfdfdf;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 2px #dfdfdf, -2px 5px 1px #b8b8b8, -4px 8px 0px #979797,
+    -6px 11px 0px #747474, -8px 14px 0px #565656, -10px 17px 0px #343434,
+    -12px 20px 0px #171717, -14px 23px 0px #000;
+}
+
+.e4 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #cfc547;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 3px 0px 7px rgba(81, 67, 21, 0.8),
+    -3px 0px 7px rgba(81, 67, 21, 0.8), 0px 4px 7px rgba(81, 67, 21, 0.8);
+}
+
+.e5 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #cfc547;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 3px 4px 7px rgba(81, 67, 21, 0.8);
+}
+
+.e6 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: #0f0f0f;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: -1px -1px 3px #020202, 2px 2px 4px #1b1b1b;
+}
+
+.e7 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #dfdfdf;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 2px #dfdfdf, -2px 5px 1px #cbcbcb, -4px 8px 1px #979797,
+    -6px 11px 1px #a2a2a2, -8px 14px 1px #aeaeae, -10px 17px 1px #b5b5b5,
+    -12px 20px 1px #bebebe, -14px 23px 1px #cecece, -16px 26px 1px #dbdbdb,
+    -18px 29px 1px #dfdfdf;
+}
+
+.e8 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 80px;
+  color: #67875d;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 1px #79a06d, -1px 3px 1px #82ad75, -2px 5px 1px #8ebf80;
+}
+
+.e9 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 2px 3px 7px white, 0 10px 1px red;
+}
+
+.e10 {
+  margin-top: 40px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 3px 3px 20px #ff99cc, -2px 1px 30px #ff99cc;
+}
+
+.e11 {
+  margin-top: 40px;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #cfc547;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 16px 22px 11px rgba(168, 158, 32, 0.8);
+}
+
+.e12 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: #000;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 3px #747474, 1px 3px 4px #222, 0 8px 3px #474747,
+    0 11px 4px #747474, 0 14px 4px #565656, 0 17px 4px #343434,
+    0 20px 4px #171717;
+}
+
+.e13 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  color: #ff0000;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 2px 2px #ff0000, -2px 5px 0 #ff7f00, -4px 10px 0 #ffff00,
+    -8px 15px 0 #00ff00, -12px 20px 0 #0000ff, -16px 25px 0 #4b0082,
+    -20px 30px 0 #9400d3;
+}
+
+.e14 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: #cfc547;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 10px 10px 25px rgb(81, 67, 21), -10px 10px 25px rgb(81, 67, 21),
+    -10px -10px 25px rgb(81, 67, 21), 10px -10px 25px rgb(81, 67, 21);
+}
+
+.e15 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: transparent;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 0 0 8px #316472;
+}
+.e16 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: -1px 1px 0 #41ba45, 1px 1px 0 #c63d2b, 1px -1px 0 #42afac,
+    -1px -1px 0 #c6c23f;
+}
+.e17 p {
+  margin: 20px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 5px;
+}
+
+#shadow1 {
+  color: white;
+  -webkit-text-stroke: 1px #f8f8f8;
+  text-shadow: 0px 1px 4px #23430c;
+}
+
+#shadow2 {
+  color: white;
+  -webkit-text-stroke: 1px #f8f8f8;
+  text-shadow: 0px 2px 4px blue;
+}
+
+#shadow3 {
+  color: #333;
+  -webkit-text-stroke: 1px #282828;
+  text-shadow: 0px 4px 4px #282828;
+}
+
+.e18 {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 70px;
+  font-weight: bold;
+  color: black;
+  text-align: center;
+  letter-spacing: 5px;
+  text-shadow: 4px 4px 0px white, -4px 0 0px white, 7px 4px 0 black;
+}
+
+.e19 p {
+  margin: 40px auto;
+  font-family: "Ubuntu", sans-serif;
+  font-size: 80px;
+  font-weight: bold;
+  text-align: center;
+  letter-spacing: 5px;
+  transform: skew(40deg) rotate(-10deg) rotateX(50deg) translate3d(0, 0, 0);
+  -webkit-perspective: 100px;
+  perspective: 100px;
+}
+
+.e19 p::before {
+  text-shadow: 0 2px 3px #747474, -3px 3px 1px #222, -6px 5px 1px #474747,
+    -9px 7px 1px #747474, -12px 9px 1px #565656, -15px 11px 1px #343434,
+    -22px 15px 1px #171717;
+}
+
+.e19 p:before,
+p:after {
+  position: absolute;
+  left: 0;
+  right: 0;
+  top: 0;
+  content: attr(data-text);
+}
+
+.e19 p:after {
+  color: #edc;
+}
